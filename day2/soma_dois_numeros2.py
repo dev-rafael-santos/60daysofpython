@@ -1,5 +1,6 @@
+# pylint: disable=missing-function-docstring
 """
-Essas são funções criadas par acalcular 
+Soma de dois numeros de duas formas diferentes 
 """
 
 def somar(numero1, numero2):

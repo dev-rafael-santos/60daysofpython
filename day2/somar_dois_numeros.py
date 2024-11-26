@@ -1,3 +1,8 @@
+"""
+Soma de dois numeros de duas formas diferentes
+
+"""
+
 numero1= input("Digite um número:")
 numero2= input("Digite outro número:")
 
