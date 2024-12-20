@@ -1,4 +1,5 @@
-# 60 dias de Programação em Python
+# 60 dias de programação em Python
+
 - [x] Dia 1 - Ola Mundo em Python
 - [x] Dia 2 - Soma de dois numeros de duas formas diferentes
 - [x] Dia 3 - Condicional que verifica se um numero e par ou impar
@@ -11,10 +12,19 @@
 - [x] Dia 10 - Gerador de senhas particular
 - [x] Dia 11 - Usamos a funcao sorted para ordenar uma lista de numeros
 - [x] Dia 12 - Busca linear utilizando listas
-- [x] Dia 13 - Funcao fatorial
+- [x] Dia 13 - Funcao fatorial 
 - [x] Dia 14 - Calculador de numeros primos
 - [x] Dia 15 - Fibonnaci
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Criamos uma funcao que verifica Palíndromos
 - [x] Dia 18 - Contabilizar palavras de uma string
 - [x] Dia 19 - Calcular media de notas
+- [x] Dia 20 - Matriz transposta
+- [x] Dia 21 - Conversor de moedas dolar para real
+- [x] Dia 22 - Calculadora de IMC
+- [x] Dia 23 - Jogo da adivinhacao em Python
+- [x] Dia 24 - Criamos uma tabuado em Python
+- [x] Dia 25 - Criamos um codigo que gera 10 numeros aleatorios
+- [x] Dia 26 - Criando uma funcao para escrever em .txt
+- [x] Dia 27 - Conversor de temperatura
+- [x] Dia 28 - Cronometro em Python
