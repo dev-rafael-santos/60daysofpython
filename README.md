@@ -31,3 +31,4 @@
 - [x] Dia 29 - Gerador de data e hora atual
 - [x] Dia 30 - Cronometro de 10 segundos
 - [x] Dia 31 - Calculo de raiz quadrada
+- [x] Dia 32 - Criando um jogo de adivinhação
