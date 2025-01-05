@@ -32,3 +32,4 @@
 - [x] Dia 30 - Cronometro de 10 segundos
 - [x] Dia 31 - Calculo de raiz quadrada
 - [x] Dia 32 - Criando um jogo de adivinhação
+- [x] Dia 33 - Contador de ocorrencias em uma lista
