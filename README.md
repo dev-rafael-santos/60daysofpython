@@ -33,3 +33,4 @@
 - [x] Dia 31 - Calculo de raiz quadrada
 - [x] Dia 32 - Criando um jogo de adivinhação
 - [x] Dia 33 - Contador de ocorrencias em uma lista
+- [x] Dia 34 - Criação de arquivo Json
