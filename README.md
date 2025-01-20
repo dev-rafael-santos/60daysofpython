@@ -34,3 +34,6 @@
 - [x] Dia 32 - Criando um jogo de adivinhação
 - [x] Dia 33 - Contador de ocorrencias em uma lista
 - [x] Dia 34 - Criação de arquivo Json
+- [x] Dia 35 - Acessando uma api
+- [x] Dia 36 - Acessando os dados de uma site
+- [x] Dia 37 - Lendo um arquivo csv
