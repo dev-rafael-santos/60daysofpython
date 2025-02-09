@@ -37,3 +37,8 @@
 - [x] Dia 35 - Acessando uma api
 - [x] Dia 36 - Acessando os dados de uma site
 - [x] Dia 37 - Lendo um arquivo csv
+- [x] Dia 38 - IA ChatGPT
+- [x] Dia 39 - Grafico no terminal
+- [x] Dia 40 - programacao orientada a objetos
+- [x] Dia 41 - Heranca em Python
+- [x] Dia 42 - Modulo OS em Python
