@@ -44,7 +44,10 @@
 - [x] Dia 42 - Modulo OS em Python
 - [x] Dia 43 - Lidando com erros
 - [x] Dia 44 - Regex
-- [x]  Dia 45 - Multi tarefas com threads
+- [x] Dia 45 - Multi tarefas com threads
+- [x] Dia 46 - Socket Cliente e Servidor 
+- [x] Dia 47 - Decorator 
+- [x] Dia 48 - Números infinitos 
 
 
  
