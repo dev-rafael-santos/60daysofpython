@@ -23,7 +23,7 @@
 - [x] Dia 21 - Conversor de moedas dolar para real
 - [x] Dia 22 - Calculadora de IMC
 - [x] Dia 23 - Jogo da adivinhacao em Python
-- [x] Dia 24 - Criamos uma tabuado em Python
+- [x] Dia 24 - Criamos uma tabuada em Python
 - [x] Dia 25 - Criamos um codigo que gera 10 numeros aleatorios
 - [x] Dia 26 - Criando uma funcao para escrever em .txt
 - [x] Dia 27 - Conversor de temperatura
@@ -31,11 +31,11 @@
 - [x] Dia 29 - Gerador de data e hora atual
 - [x] Dia 30 - Cronometro de 10 segundos
 - [x] Dia 31 - Calculo de raiz quadrada
-- [x] Dia 32 - Criando um jogo de adivinhação
-- [x] Dia 33 - Contador de ocorrencias em uma lista
-- [x] Dia 34 - Criação de arquivo Json
-- [x] Dia 35 - Acessando uma api
-- [x] Dia 36 - Acessando os dados de uma site
+- [x] Dia 32 - Lançamento de dados
+- [x] Dia 33 - Contar ocorrências de palavras em um texto
+- [x] Dia 34 - Manipulando arquivos json
+- [x] Dia 35 - Requests
+- [x] Dia 36 - Crawler
 - [x] Dia 37 - Lendo um arquivo csv
 - [x] Dia 38 - IA ChatGPT
 - [x] Dia 39 - Grafico no terminal
@@ -45,11 +45,11 @@
 - [x] Dia 43 - Lidando com erros
 - [x] Dia 44 - Regex
 - [x] Dia 45 - Multi tarefas com threads
-- [x] Dia 46 - Socket Cliente e Servidor 
-- [x] Dia 47 - Decorator 
-- [x] Dia 48 - Números infinitos 
-
-
- 
+- [x] Dia 46 - Sockets em Python 
+- [x] Dia 47 - Medindo tempo de execucao 
+- [x] Dia 48 - Yield em Python 
+- [x] Dia 49 - Criando e manipulando banco de dados SQLite
+- [x] Dia 50 - Automatizando clicks com Python
+- [x] Dia 51 - Web Scraping com Python
 
 
